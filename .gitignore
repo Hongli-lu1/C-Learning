@@ -1,0 +1,17 @@
+## .NET 编译产物
+bin/
+obj/
+
+## Visual Studio / IDE
+.vs/
+.idea/
+*.user
+*.suo
+
+## 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+## 日志
+*.log
